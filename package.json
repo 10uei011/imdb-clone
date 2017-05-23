@@ -1,0 +1,25 @@
+{
+  "name": "imdb-clone",
+  "version": "1.0.0",
+  "description": "imdb clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/10uei011/imdb-clone.git"
+  },
+  "keywords": [
+    "imdb"
+  ],
+  "author": "dipesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10uei011/imdb-clone/issues"
+  },
+  "homepage": "https://github.com/10uei011/imdb-clone",
+  "dependencies": {
+    "hapi": "^16.1.1"
+  }
+}
